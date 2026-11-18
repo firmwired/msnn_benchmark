@@ -5,7 +5,7 @@
 *.plt
 *.op.raw
 *.json
-*.pdf
+
 *.csv
 paper/*
 notebooks/test.ipynb
