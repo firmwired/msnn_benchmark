@@ -8,3 +8,6 @@
 *.pdf
 *.csv
 paper/*
+notebooks/test.ipynb
+notebooks/preprocessing.ipynb
+notebooks/prep.ipynb
